@@ -1,0 +1,8 @@
+# Student Final Exam Grade Prediction
+
+## Problem Statement:
+Predicting the final exam grade for secondary students given their attributes such as student grades, demographic, social, and school-related features. This helps the school management to group students and give them tailored learning exercises to improve their final exam grades.
+
+## Data Description
+The data contains 33 variables and of which G3 (grade for final exam) is the Target variable. The complete data dictionary can be found here.
+
